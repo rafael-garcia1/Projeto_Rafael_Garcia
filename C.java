@@ -1,3 +1,7 @@
+/* Nome: Rafael de Souza Garcia
+Matricula: 201820003
+Turma: 10A */
+
 public class C {
     private String C1;
     private int C2;
@@ -25,4 +29,9 @@ public class C {
     public void MC2() {
         System.out.println("MC2");
     }
+
+    public void MC3() {
+        System.out.println("MC3");
+    }
 }
+
